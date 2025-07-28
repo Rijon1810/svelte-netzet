@@ -3,7 +3,7 @@
 	<img
 		src="/mobile_mockup.png"
 		alt="Mobile device mockup"
-		class="absolute w-[666px] h-[679px] right-[101px] top-[125px]"
+		class="absolute w-[666px] h-[679px] right-[101px] top-0"
 	/>
 </div>
 
@@ -12,6 +12,6 @@
 	<img
 		src="/mobile_mockup.png"
 		alt="Mobile device mockup"
-		class="absolute h-[300px] left-1/2 transform -translate-x-1/2 top-[138px]"
+		class="absolute h-[300px] left-1/2 transform -translate-x-1/2 top-0"
 	/>
 </div> 
