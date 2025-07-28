@@ -13,7 +13,6 @@
 		"format": "prettier --plugin-search-dir . --write ."
 	},
 	"devDependencies": {
-		"@sveltejs/adapter-auto": "^3.0.0",
 		"@sveltejs/kit": "^2.0.0",
 		"@sveltejs/vite-plugin-svelte": "^3.1.2",
 		"@typescript-eslint/eslint-plugin": "^6.0.0",
@@ -33,7 +32,8 @@
 		"vite": "^5.0.3"
 	},
 	"dependencies": {
-		"@fontsource/urbanist": "^5.0.0"
+		"@fontsource/urbanist": "^5.0.0",
+		"@sveltejs/adapter-vercel": "^5.8.1"
 	},
 	"overrides": {
 		"svelte-hmr": "^0.16.0"
