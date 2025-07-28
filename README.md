@@ -1,23 +1,4 @@
-# Fame Tonic
-
-A modern web application built with SvelteKit and Tailwind CSS.
-
-## 🚀 Features
-
-- **SvelteKit** - Full-stack web framework
-- **Tailwind CSS** - Utility-first CSS framework
-- **TypeScript** - Type safety and better developer experience
-- **Urbanist Font** - Modern, clean typography
-- **Responsive Design** - Works on all devices
-- **Modern UI** - Beautiful gradients and animations
-
-## 🛠️ Tech Stack
-
-- **Framework**: SvelteKit 2.0
-- **Styling**: Tailwind CSS 3.3.6
-- **Language**: TypeScript
-- **Font**: Urbanist (Google Fonts)
-- **Build Tool**: Vite 5.0.3
+SvelteKit and Tailwind CSS.
 
 ## 📦 Installation
 
@@ -42,14 +23,6 @@ npm run dev
 - `npm run lint` - Lint code
 - `npm run format` - Format code
 
-## 🎨 Design Features
-
-- **Gradient Backgrounds** - Beautiful color transitions
-- **Glass Morphism** - Modern glass-like effects
-- **Responsive Grid** - Adapts to all screen sizes
-- **Hover Effects** - Interactive elements
-- **Typography** - Clean, readable fonts
-
 ## 📁 Project Structure
 
 ```
@@ -68,7 +41,3 @@ src/
 2. Start editing `src/routes/+page.svelte` to modify the home page
 3. Add new routes in the `src/routes/` directory
 4. Customize styles in `src/app.css`
-
-## 📝 License
-
-This project is private and proprietary.
